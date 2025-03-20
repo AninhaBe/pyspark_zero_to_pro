@@ -7,8 +7,7 @@ Este repositório contém meus estudos e experimentos sobre **Apache Spark**, ex
 
 ## 📝 **Índice**
 - [📌 O que é Apache Spark?](#-o-que-é-apache-spark)
-
-- [🖥️ Cluster no Apache Spark](#️-cluster-no-apache-spark)
+- [⚙️ Arquitetura do Spark](#arquitetura-do-spark)
 - [🚀 Fluxo de Execução do Spark](#-fluxo-de-execução-do-spark)
 - [📚 Recursos para Estudo](#-recursos-para-estudo)
 - [📌 Como Rodar este Repositório](#-como-rodar-este-repositório)
