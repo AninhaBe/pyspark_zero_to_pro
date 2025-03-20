@@ -43,8 +43,8 @@ Se um código Python tradicional demoraria **horas** para processar um grande co
 A arquitetura do Spark é **baseada em clusters** e segue um modelo **Mestre-Escravo (Master-Slave)**.  
 
 A imagem abaixo representa essa estrutura:  
+![download](https://github.com/user-attachments/assets/3eb33d7d-fa71-4eb3-8b33-e2aa3df68c34)
 
-(#️-arquitetura-do-spark)![download](https://github.com/user-attachments/assets/058eaee0-3ef7-47d1-8464-6ae5121a1a0b)  
 
 ### 🖥 **1. Driver Program (Programa Principal)**
 O **Driver Program** é onde tudo começa!  
