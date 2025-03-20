@@ -7,7 +7,7 @@ Este repositório contém meus estudos e experimentos sobre **Apache Spark**, ex
 
 ## 📝 **Índice**
 - [📌 O que é Apache Spark?](#-o-que-é-apache-spark)
-- [⚙️ Arquitetura do Spark](#️-arquitetura-do-spark)
+
 - [🖥️ Cluster no Apache Spark](#️-cluster-no-apache-spark)
 - [🚀 Fluxo de Execução do Spark](#-fluxo-de-execução-do-spark)
 - [📚 Recursos para Estudo](#-recursos-para-estudo)
@@ -43,8 +43,8 @@ Se um código Python tradicional demoraria **horas** para processar um grande co
 A arquitetura do Spark é **baseada em clusters** e segue um modelo **Mestre-Escravo (Master-Slave)**.  
 
 A imagem abaixo representa essa estrutura:  
+![cluster-overview](https://github.com/user-attachments/assets/34ea3450-581b-4c2d-9c51-dcbb9fac7758)
 
-![Arquitetura do Spark](cluster-overview.png)  
 
 ### 🖥 **1. Driver Program (Programa Principal)**
 O **Driver Program** é onde tudo começa!  
