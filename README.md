@@ -44,7 +44,7 @@ A arquitetura do Spark é **baseada em clusters** e segue um modelo **Mestre-Esc
 
 A imagem abaixo representa essa estrutura:  
 
-![Arquitetura do Spark](https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_architecture_diagram.png)  
+![Arquitetura do Spark](cluster-overview.png)  
 
 ### 🖥 **1. Driver Program (Programa Principal)**
 O **Driver Program** é onde tudo começa!  
