@@ -77,7 +77,7 @@ O Spark pode rodar com diferentes **gerenciadores de cluster**:
 
 ### 🏗 **3. Worker Nodes (Nós Trabalhadores)**
 Os **Worker Nodes** são as máquinas onde **o processamento realmente acontece**.  
-Cada Worker contém:
+Cada Worker contém:  
 ✔ **Executors** → Executam as tarefas que foram enviadas pelo Driver.  
 ✔ **Tasks** → Pequenas partes do código que serão rodadas em paralelo.  
 ✔ **Cache** → Armazena dados em memória para melhorar a performance.  
