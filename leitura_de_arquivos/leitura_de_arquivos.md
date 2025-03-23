@@ -5,7 +5,6 @@ Nesta seção, organizei tudo que aprendi até agora sobre como **ler dados no P
 ---
 
 ## 📝 Índice
->>>>>>> 6938fd0 (update reading files)
 
 - [📁 Explorando os arquivos com DBFS](#-explorando-os-arquivos-com-dbfs)  
 - [📄 Lendo dados CSV](#-lendo-dados-csv)  
@@ -128,3 +127,5 @@ Pense nele como o “gerenciador de arquivos” dentro do seu ambiente Databrick
 | Ver opções disponíveis      | `help(spark.read.csv)`              |
 
 ---
+
+PS: O notebook feito no databricks pode ser encontrado dentro dessa pasta
