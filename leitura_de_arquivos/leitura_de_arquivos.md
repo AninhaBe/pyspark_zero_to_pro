@@ -128,4 +128,4 @@ Pense nele como o “gerenciador de arquivos” dentro do seu ambiente Databrick
 
 ---
 
-PS: O notebook feito no databricks pode ser encontrado dentro dessa pasta
+### PS: O notebook desenvolvido e os arquivos que foram usados no databricks pode ser encontrado dentro dessa pasta
