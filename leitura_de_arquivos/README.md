@@ -83,13 +83,13 @@ df.display()
 
 ### 🧪 Erros comuns na leitura
 
-⚠️ Problema que encontrei:
+Durante meus testes, enfrentei um erro de indentação causado por **quebrar linhas com barra invertida (`\`) e adicionar comentários na mesma linha**:
 
 ```python
-.option('multiLine', False)\  # ❌ Comentário na mesma linha da barra invertida
+.option('multiLine', False)\  # ❌ Isso causa erro
 ```
 
-📌 Solução correta:
+✅ Solução recomendada: use **parênteses** ao redor de toda a expressão encadeada:
 
 ```python
 df = (
@@ -99,8 +99,6 @@ df = (
     .load('dbfs:/FileStore/arquivo.csv')
 )
 ```
-
-✅ **Use parênteses para evitar erros com quebras de linha.**
 
 ---
 
