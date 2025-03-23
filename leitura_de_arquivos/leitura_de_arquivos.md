@@ -1,6 +1,3 @@
-
----
-
 ## 📥 Leitura de Dados no PySpark
 
 Nesta seção, organizei tudo que aprendi até agora sobre como **ler dados no PySpark**, incluindo os principais métodos, opções de configuração, erros comuns e boas práticas — tudo com exemplos reais no ambiente Databricks.
