@@ -6,7 +6,7 @@ Nesta seção, organizei tudo que aprendi até agora sobre como **ler dados no P
 
 ## Índice
 
-- [O que é DBFS?](#-o-que-é-dbfs)  
+- [O que é DBFS?](https://github.com/AninhaBe/pyspark_zero_to_pro/blob/main/leitura_de_arquivos/README.md#o-que-%C3%A9-dbfs)  
 - [Explorando os arquivos com DBFS](#-explorando-os-arquivos-com-dbfs)  
 - [Lendo dados CSV](#-lendo-dados-csv)  
 - [Erros comuns na leitura](#-erros-comuns-na-leitura)  
