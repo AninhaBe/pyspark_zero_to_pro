@@ -1,4 +1,4 @@
-# **PySpark Zero to Pro **  
+# **PySpark Zero to Pro**  
 **Documentando meu aprendizado sobre Apache Spark e PySpark**  
 
 Este repositório contém meus estudos e experimentos sobre **Apache Spark**, explicando sua **arquitetura, funcionamento e como ele processa grandes volumes de dados**. Aqui, estou registrando minha compreensão do assunto, aprimorando conceitos ao longo do caminho.  
